@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-03T13:08:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291887091",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6698755,
+          -3.7673233
+        ]
+      },
+      "id": "node/6291887091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291887092",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.669733,
+          -3.7672856
+        ]
+      },
+      "id": "node/6291887092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927082355",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6746654,
+          -3.8283658
+        ]
+      },
+      "id": "node/9927082355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927082356",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6745015,
+          -3.8283976
+        ]
+      },
+      "id": "node/9927082356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927082357",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6756539,
+          -3.8301842
+        ]
+      },
+      "id": "node/9927082357"
+    }
+  ]
+}
