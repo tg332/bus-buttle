@@ -1,0 +1,23 @@
+# 🔧 Arquivos compilados
+*.o
+*.out
+*.exe
+*.a
+
+# 🔥 Executáveis comuns
+main
+
+# 📦 Pastas de build
+build/
+dist/
+
+# 🧠 Cache e temporários
+*.log
+*.tmp
+*.cache
+
+# 🖥️ VS Code
+.vscode/
+
+# 🐧 Linux
+*~
